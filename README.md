@@ -2,3 +2,4 @@
 |:--|:-:| 
 
 
+[![Discord Presence](https://lanyard.kyrie25.me/api/788746150828179456?bg=282a36&gradient=DD6387-DD6387&&waveSpotifyColor=DD6387&waveColor=DD6387)](https://discord.com/users/788746150828179456) 
