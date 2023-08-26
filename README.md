@@ -6,7 +6,7 @@ Oh, It's Tom!
 </br>
 </h1>
 
-<kbd>
+
 <img src="https://lanyard.kyrie25.me/api/788746150828179456?bg=1e1e2e&gradient=DD6387-DD6387&&waveSpotifyColor=DD6387&waveColor=DD6387" style="border: 2px solid #DD6387 !important; padding: 5px;">
 
   
@@ -14,7 +14,7 @@ Oh, It's Tom!
 |:--|:-:| 
 
 
-  </kbd>
+
 
   <h1></h1>
   
