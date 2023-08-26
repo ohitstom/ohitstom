@@ -18,5 +18,5 @@ Oh, It's Tom!
 
   <h1></h1>
   
-  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M0MRES5)
+  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M0MRES5) [![spotify](/spotify.png)](https://open.spotify.com/user/mrcool06)
 </div>
