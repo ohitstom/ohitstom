@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👀<br>Oh, It's Tom!</h1>
-  
+    
   <table>
     <tr>
       <td>
@@ -30,5 +30,7 @@
   <a href="https://open.spotify.com/user/mrcool06">
     <img src="/spotify.png" alt="My Spotify Profile">
   </a>
-</div>
 
+  `(my pins include projects I maintain)`
+
+</div>
