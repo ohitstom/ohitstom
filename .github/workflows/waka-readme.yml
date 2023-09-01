@@ -20,4 +20,4 @@ jobs:
           SHOW_TIME:	true
           SHOW_TOTAL: true
           BLOCKS: ->
-          CODE_LANG: rust
+          CODE_LANG: lua
