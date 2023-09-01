@@ -7,9 +7,11 @@
   <!--START_SECTION:waka-->
 
 ```txt
+From: 28 August 2023 - To: 31 August 2023
+
 Total Time: 2 mins
 
-INI   2 mins          >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
+INI   2 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
