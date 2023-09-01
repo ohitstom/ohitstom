@@ -6,7 +6,7 @@
 
   <!--START_SECTION:waka-->
 
-```rust
+```lua
 From: 28 August 2023 - To: 01 September 2023
 
 Total Time: 4 hrs 11 mins
