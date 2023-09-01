@@ -6,16 +6,16 @@
 
   <!--START_SECTION:waka-->
 
-```txt
+```rust
 From: 28 August 2023 - To: 01 September 2023
 
 Total Time: 4 hrs 11 mins
 
-SCSS         3 hrs 11 mins   ███████████████████░░░░░░   76.19 %
-CSS          46 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.63 %
-JavaScript   7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
-INI          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
-Markdown     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
+SCSS         3 hrs 11 mins   >>>>>>>>>>>>>>>>>>>------   76.19 %
+CSS          46 mins         >>>>>--------------------   18.63 %
+JavaScript   7 mins          >------------------------   02.90 %
+INI          2 mins          -------------------------   01.16 %
+Markdown     2 mins          -------------------------   01.13 %
 ```
 
 <!--END_SECTION:waka-->
