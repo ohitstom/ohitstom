@@ -5,7 +5,14 @@
   <summary>wakatime</summary>
 
   <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
+
+```txt
+Total Time: 2 mins
+
+INI   2 mins          >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
+```
+
+<!--END_SECTION:waka-->
   
   </details>
     
