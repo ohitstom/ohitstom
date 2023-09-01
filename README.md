@@ -1,5 +1,13 @@
 <div align="center">
   <h1>👀<br>Oh, It's Tom!</h1>
+
+  <details>
+  <summary>wakatime</summary>
+
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
+  
+  </details>
     
   <table>
     <tr>
