@@ -21,5 +21,4 @@ jobs:
           SHOW_TOTAL: true
           BLOCKS: ->
           CODE_LANG: lua
-          STOP_AT_OTHER: true
           LANG_COUNT: 10
