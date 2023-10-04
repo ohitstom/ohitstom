@@ -30,7 +30,7 @@ TypeScript     5 mins          -------------------------   00.36 %
   <table>
     <tr>
       <td>
-        <img src="https://lanyard-profile-readme-duvbb4cha-kyrie25.vercel.app/api/788746150828179456?bg=transparent&waveColor=DD6387&waveSpotifyColor=DD6387&gradient=DD6387-DD6387&imgFit=cover" alt="Tom's Lanyard Status">
+        <img src="https://lanyard-profile-readme-git-main-ohitstom.vercel.app/api/788746150828179456?bg=transparent&waveColor=DD6387&waveSpotifyColor=DD6387&gradient=DD6387-DD6387&imgFit=cover" alt="Tom's Lanyard Status">
       </td>
     </tr>
   </table>
