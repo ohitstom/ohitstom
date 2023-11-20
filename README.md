@@ -78,7 +78,7 @@ XML            59 mins         -------------------------   00.87 %
   ></kbd>
   <kbd>
     <a
-      href="https://spotify.tompc.live/?gname=All&token=6c8e1398-5dca-4654-9f41-1457975d9f3f"
+      href="[https://spotify.tompc.live/?gname=All&token=6c8e1398-5dca-4654-9f41-1457975d9f3f](https://spotify.tompc.live/all?gname=All&token=d9858b0f-7a57-423f-9499-5fdba1dfc6b8)"
     >
       <img
         src="https://img.shields.io/badge/Stats-1db954?logo=spotify&logoColor=white&style=for-the-badge"
