@@ -53,7 +53,7 @@ XML            59 mins         -------------------------   00.87 %
   <a href="https://ko-fi.com/M4M0MRES5">
     <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi">
   </a>
-  <a href="https://open.spotify.com/user/mrcool06">
+  <a href="https://spotify.tompc.live/?gname=All&token=6c8e1398-5dca-4654-9f41-1457975d9f3f">
     <img src="/spotify.png" alt="My Spotify Profile">
   </a>
 
