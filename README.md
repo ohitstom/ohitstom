@@ -1,6 +1,4 @@
 <div align="center">
-  <h1>👀<br />Oh, It's Tom!</h1>
-
   <table>
     <tr>
       <td>
