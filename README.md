@@ -12,29 +12,6 @@
     </tr>
   </table>
 
-  <table><td>
-<!--START_SECTION:waka-->
-
-```lua
-From: 28 August 2023 - To: 15 November 2023
-
-Total Time: 110 hrs 40 mins
-
-JavaScript     81 hrs 12 mins  >>>>>>>>>>>>>>>>>>-------   71.93 %
-SCSS           15 hrs 22 mins  >>>----------------------   13.61 %
-CSS            3 hrs 27 mins   >------------------------   03.07 %
-INI            2 hrs 20 mins   >------------------------   02.07 %
-Other          2 hrs 13 mins   -------------------------   01.98 %
-Markdown       2 hrs 11 mins   -------------------------   01.95 %
-JSON           1 hr 11 mins    -------------------------   01.05 %
-Go             1 hr 4 mins     -------------------------   00.95 %
-Python         59 mins         -------------------------   00.88 %
-XML            59 mins         -------------------------   00.87 %
-```
-
-<!--END_SECTION:waka-->
-  </td></table>
-
   <table>
     <tr>
       <td>
@@ -55,9 +32,35 @@ XML            59 mins         -------------------------   00.87 %
         />
       </td>
     </tr>
-  </table>
-  
-  <h1></h1>
+    <tr>
+      <td colspan="2">
+      <div align="center">
+<!--START_SECTION:waka-->
+
+```lua
+From: 28 August 2023 - To: 15 November 2023
+
+Total Time: 110 hrs 40 mins
+
+JavaScript     81 hrs 12 mins  >>>>>>>>>>>>>>>>>>-------   71.93 %
+SCSS           15 hrs 22 mins  >>>----------------------   13.61 %
+CSS            3 hrs 27 mins   >------------------------   03.07 %
+INI            2 hrs 20 mins   >------------------------   02.07 %
+Other          2 hrs 13 mins   -------------------------   01.98 %
+Markdown       2 hrs 11 mins   -------------------------   01.95 %
+JSON           1 hr 11 mins    -------------------------   01.05 %
+Go             1 hr 4 mins     -------------------------   00.95 %
+Python         59 mins         -------------------------   00.88 %
+XML            59 mins         -------------------------   00.87 %
+```
+
+<!--END_SECTION:waka-->
+</div>
+  </td>
+  </tr>
+ </table>
+
+ <h1></h1>
 
   <kbd>
     <a href="https://ko-fi.com/M4M0MRES5">
