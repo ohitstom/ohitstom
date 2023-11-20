@@ -34,7 +34,8 @@
     </tr>
     <tr>
       <td colspan="2">
-      <div align="center">
+        <div align="center">
+          
 <!--START_SECTION:waka-->
 
 ```lua
@@ -55,12 +56,11 @@ XML            59 mins         -------------------------   00.87 %
 ```
 
 <!--END_SECTION:waka-->
-</div>
-  </td>
-  </tr>
- </table>
 
- <h1></h1>
+  </div></td></tr>
+  </table>
+
+  <h1></h1>
 
   <kbd>
     <a href="https://ko-fi.com/M4M0MRES5">
@@ -68,16 +68,18 @@ XML            59 mins         -------------------------   00.87 %
         src="https://img.shields.io/badge/Ko--fi-FF5E5B?logo=kofi&logoColor=white&style=for-the-badge"
         alt="Support me on Ko-fi"
         height="30"
-      />
-    </a></kbd>
-    <kbd><a href="https://open.spotify.com/user/mrcool06">
+      /> </a
+  ></kbd>
+  <kbd
+    ><a href="https://open.spotify.com/user/mrcool06">
       <img
         src="https://img.shields.io/badge/Profile-1db954?logo=spotify&logoColor=white&style=for-the-badge"
         alt="My Spotify Profile"
         height="30"
-      />
-    </a></kbd>
-   <kbd> <a
+      /> </a
+  ></kbd>
+  <kbd>
+    <a
       href="https://spotify.tompc.live/?gname=All&token=6c8e1398-5dca-4654-9f41-1457975d9f3f"
     >
       <img
