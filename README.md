@@ -12,28 +12,6 @@
     </tr>
   </table>
 
-  <table>
-    <tr>
-      <td>
-        <img
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=OhItsTom&layout=compact&theme=transparent&text_color=cdd6f4&hide_border=true&icon_color=cba6f7&title_color=94e2d5&langs_count=8"
-          alt="Most Used Languages"
-        />
-        <br />
-        <img
-          src="https://github-readme-stats.vercel.app/api?username=OhItsTom&show_icons=true&theme=transparent&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&hide_border=true&rank_icon=percentile"
-          alt="Stats"
-        />
-      </td>
-      <td>
-        <img
-          src="https://spotify-github-profile.vercel.app/api/view?uid=mrcool06&cover_image=true&theme=default&show_offline=false&background_color=transparent&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&interchange=true&bar_color_cover=true"
-          style="height: 380px"
-        />
-      </td>
-    </tr>
-  </table>
-
   <table><td>
 <!--START_SECTION:waka-->
 
@@ -56,6 +34,28 @@ XML            59 mins         -------------------------   00.87 %
 
 <!--END_SECTION:waka-->
   </td></table>
+
+  <table>
+    <tr>
+      <td>
+        <img
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=OhItsTom&layout=compact&theme=transparent&text_color=cdd6f4&hide_border=true&icon_color=cba6f7&title_color=94e2d5&langs_count=8"
+          alt="Most Used Languages"
+        />
+        <br />
+        <img
+          src="https://github-readme-stats.vercel.app/api?username=OhItsTom&show_icons=true&theme=transparent&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&hide_border=true&rank_icon=percentile"
+          alt="Stats"
+        />
+      </td>
+      <td>
+        <img
+          src="https://spotify-github-profile.vercel.app/api/view?uid=mrcool06&cover_image=true&theme=default&show_offline=false&background_color=transparent&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&interchange=true&bar_color_cover=true"
+          style="height: 380px"
+        />
+      </td>
+    </tr>
+  </table>
   
   <h1></h1>
 
