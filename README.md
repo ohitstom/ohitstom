@@ -3,7 +3,7 @@
     <tr>
       <td>
         <img
-          src="https://lanyard.tompc.live/api/788746150828179456?bg=transparent&waveColor=DD6387&waveSpotifyColor=DD6387&gradient=DD6387-DD6387&imgFit=cover"
+          src="https://lanyard.tompc.live/api/1115122225650094080?bg=transparent&waveColor=DD6387&waveSpotifyColor=DD6387&gradient=DD6387-DD6387&imgFit=cover"
           alt="Tom's Lanyard Status"
         />
       </td>
