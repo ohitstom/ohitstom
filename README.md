@@ -39,15 +39,15 @@
 <!--START_SECTION:waka-->
 
 ```lua
-From: 28 August 2023 - To: 07 April 2024
+From: 28 August 2023 - To: 08 April 2024
 
-Total Time: 215 hrs 47 mins
+Total Time: 216 hrs 35 mins
 
-JavaScript     150 hrs 47 mins >>>>>>>>>>>>>>>>>--------   68.83 %
-SCSS           36 hrs 48 mins  >>>>---------------------   16.80 %
-Go             5 hrs 9 mins    >------------------------   02.35 %
+JavaScript     150 hrs 51 mins >>>>>>>>>>>>>>>>>--------   68.61 %
+SCSS           37 hrs 32 mins  >>>>---------------------   17.07 %
+Go             5 hrs 9 mins    >------------------------   02.34 %
 CSS            4 hrs 53 mins   >------------------------   02.23 %
-INI            4 hrs 9 mins    -------------------------   01.90 %
+INI            4 hrs 9 mins    -------------------------   01.89 %
 Batchfile      3 hrs 24 mins   -------------------------   01.55 %
 Other          3 hrs 17 mins   -------------------------   01.50 %
 Markdown       2 hrs 58 mins   -------------------------   01.36 %
