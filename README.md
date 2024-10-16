@@ -3,7 +3,7 @@
     <tr>
       <td>
         <img
-          src="https://lanyard.tompc.live/api/1115122225650094080?bg=transparent&waveColor=DD6387&waveSpotifyColor=DD6387&gradient=DD6387-DD6387&imgFit=cover"
+          src="https://lanyard.ohitstom.vercel.app/api/1115122225650094080?bg=transparent&waveColor=DD6387&waveSpotifyColor=DD6387&gradient=DD6387-DD6387&imgFit=cover"
           alt="Tom's Lanyard Status"
         />
       </td>
@@ -14,12 +14,12 @@
     <tr>
       <td>
         <img
-          src="https://stats.tompc.live/api/top-langs/?username=OhItsTom&layout=compact&theme=transparent&text_color=cdd6f4&hide_border=true&icon_color=cba6f7&title_color=94e2d5&langs_count=8"
+          src="https://github-readme-stats-ohitstoms-projects.vercel.app/api/top-langs/?username=OhItsTom&layout=compact&theme=transparent&text_color=cdd6f4&hide_border=true&icon_color=cba6f7&title_color=94e2d5&langs_count=8"
           alt="Most Used Languages"
         />
         <br />
         <img
-          src="https://stats.tompc.live/api?username=OhItsTom&show_icons=true&theme=transparent&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&hide_border=true&rank_icon=percentile"
+          src="https://github-readme-stats-ohitstoms-projects.vercel.app/api?username=OhItsTom&show_icons=true&theme=transparent&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&hide_border=true&rank_icon=percentile"
           alt="Stats"
         />
       </td>
